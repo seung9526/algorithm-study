@@ -1,3 +1,4 @@
+/*
 10828(스택)
 
 push X: 정수 X를 스택에 넣는 연산이다.
@@ -13,7 +14,7 @@ top
 pop
 top
 pop
-
+*/
 
 import java.io.*;
 import java.util.*;
